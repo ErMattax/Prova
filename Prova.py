@@ -9,4 +9,5 @@ def main():
     n = int(input("da quanto conto? "))
     count(n)
 
-main()
+if __name__ == "__main__":
+    main()
